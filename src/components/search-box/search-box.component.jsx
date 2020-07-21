@@ -10,4 +10,3 @@ export const SearchBox = ({ placeholder, handleChange }) => {
       onChange={handleChange} />
   )
 }
-// ({ target }) => this.setState({ searchField: target.value })
